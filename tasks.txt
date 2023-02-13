@@ -1,0 +1,13 @@
+admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019, Yes
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 15 Feb 2023, Yes
+manager, check something, to make sure, dfag, 18 Mar 2023, Yes
+CEO, meeting with XY, at the ariport, dfafd, 3 Apr 2023, No
+aniko, adgawg, glwaejg gwagwaei owe, 22 JAn 2022, 3 Dec 2022, Yes
+Adam, Coffee, make me a coffee pls, 2023-01-11, 22 DEC 2023, Yes
+aniko, amazon, return items, 2023-01-15, 3 Feb 2022, No
+Adam, Gym, go to the gym, 2023-01-11, 22 DEC 2022, No
+aniko, insurance, email the insurance to chase, 2023-01-15, 3 Feb 2022, Yes
+aniko, amazon order, Order everything, 2023-01-15, 10 Mar 2023, No
+Gabor, JOB, pls do tihs, 12 Feb 2023, 23 Feb 2023, No
+Hans, Music, new music pls, 13 Feb 2023, 2 Feb 2023, No
+Ludo, Movie ST, keep playing the music, 13 Feb 2023, 23 Feb 2023, Yes
